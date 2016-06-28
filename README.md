@@ -2,6 +2,7 @@
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Build Status](https://travis-ci.org/ezekeal/ez-pixel.svg?branch=master)](https://travis-ci.org/ezekeal/ez-pixel)
 
 [npm-image]: https://img.shields.io/npm/v/ez-pixel.svg
 [npm-url]: https://npmjs.org/package/ez-pixel
