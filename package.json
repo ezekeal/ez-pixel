@@ -1,0 +1,31 @@
+{
+  "name": "ez-pixel",
+  "version": "1.0.0",
+  "description": "takes in images and spits out pixels",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Zach Koch",
+    "email": "ezekeal@gmail.com",
+    "url": "https://github.com/ezekeal"
+  },
+  "engines" : { "node" : ">=6.0" },
+  "dependencies": {
+    "charm": "^1.0.1",
+    "jimp": "^0.2.24",
+    "x256": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node demo/demo.js"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ezekeal/ez-pixel.git"
+  },
+  "homepage": "https://github.com/ezekeal/ez-pixel",
+  "bugs": {
+    "url": "https://github.com/ezekeal/ez-pixel/issues"
+  }
+}
