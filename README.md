@@ -1,4 +1,6 @@
 # ez-pixel
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ezekeal/ez-pixel.svg)](https://greenkeeper.io/)
 [![npm][npm-image]][npm-url]
 [![downloads][downloads-image]][downloads-url]
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
